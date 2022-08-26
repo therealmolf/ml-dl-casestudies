@@ -1,2 +1,3 @@
-# Machine-Learning
-Some practice notebooks I've accomplished
+# Machine-Learning and Deep Learning
+
+This contains the Practice Notebooks and Case Studies that I have accomplished.
